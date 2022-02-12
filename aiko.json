@@ -1,0 +1,34 @@
+{
+  "name": "10 Ideas of Play-to-Earn",
+  "description": "Created by @0xAikoDai and @Mapleleafcap of Folius Ventures, NFT technology powered by HelloWeb3Team. Are there ways to stabilize in-game FX & make P2E economies more sustainable?@0xAikoDai & @MapleLeafCap came up w/ 10 ideas esp. for games w/ heavy PvE + dual tokens. These ain’t no panacea – just our opinions & hope to inspire developers exploring the fog of war.",
+  "external_url": "https://docsend.com/view/mkj73gd8avjgav6t",
+  "collection_name": "Readable NFT",
+  "attributes": [
+    {
+      "trait_type": "Language",
+      "value": "English"
+    },
+    {
+      "trait_type": "Version",
+      "value": "1.0"
+    },
+     {
+      "trait_type": "Co-author",
+      "value": "Aiko & Jason Kam"
+    },
+     {
+      "trait_type": "Publisher",
+      "value": "HelloWeb3"
+    },
+    {
+      "trait_type": "Release date",
+      "value": "Feb 8th 2022"
+    }
+  ],
+  "animation_url": "https://ipfs.io/ipfs/QmZ2DRt4pkzbVbodyfhrjUtHcc753tNhXJMALYa1XEQUzp",
+  "image": "https://ipfs.io/ipfs/QmWQkSV3zY2K8y25D1a48fgWqXF9i1Udx7G3BpmTfBYBNb",
+  "interactive_nft": {
+    "code_uri": "https://ipfs.io/ipfs/QmZ2DRt4pkzbVbodyfhrjUtHcc753tNhXJMALYa1XEQUzp",
+    "version": "1.0"
+  }
+}
